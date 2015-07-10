@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/zhouwei/AndroidStudioProjects/alipay_demo/app/libs/android-support-v13.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b3db0befb5f9a8c310ca661ea2f67da12871fa2">
+        <dex dex="/home/zhouwei/AndroidStudioProjects/alipay_demo/app/build/intermediates/pre-dexed/debug/android-support-v13-e87854e1894febc14b9f43771520564bf838dbe8.jar" />
+    </item>
+    <item
+        jar="/home/zhouwei/AndroidStudioProjects/alipay_demo/app/libs/alipaySDK-20150610.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5a05e35493f2b4712dda31da3625a4a7459dc088">
+        <dex dex="/home/zhouwei/AndroidStudioProjects/alipay_demo/app/build/intermediates/pre-dexed/debug/alipaySDK-20150610-24c26f280df3179fc1fb0259e9071c7371540d01.jar" />
+    </item>
+
+</items>
